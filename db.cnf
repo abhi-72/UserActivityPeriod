@@ -1,0 +1,5 @@
+[client]
+database = useractiveperiod
+user = abhinav
+password = Abhin@v2020
+default-character-set = utf8
